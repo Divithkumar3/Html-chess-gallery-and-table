@@ -1,0 +1,10 @@
+div{
+    color: aliceblue;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    justify-content: space-between;
+}
